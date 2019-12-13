@@ -1,0 +1,9 @@
+Time of run =  12/13/2019, 13:14:03
+Input file = C:\Users\haley\Dropbox\Code\Heartrate VariabilityBL6_P15_0001.abf
+Output directory = C:\Users\haley\Dropbox\Code\Heartrate Variability\analyzed
+Analysis window (in minutes) = 0 , 0.05
+Analysis window (in s) = 0 , 3
+Analysis window (in datapoints) = 0 , 1500
+Breath spikes = 2
+Timeframe = 3
+Breath rate = 0.6666666666666666

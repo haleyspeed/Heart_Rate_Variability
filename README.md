@@ -11,10 +11,11 @@ Takes 2-13 channels of EEG and EMG activity and determines covariance of brain, 
 - Peak amplitude
 - Peak to peak latency
 - Annotated plots for all analyses
+- Weighted averaging for long-term recordings
+- Capability for unlimited channels of data
 
 ### Future updates
-- Weighted averaging for longer recordings
 - Spike coherence across channels
 - Peak to trough latency
 - Trough amplitude
-- Expand to 13-channel capability
+
